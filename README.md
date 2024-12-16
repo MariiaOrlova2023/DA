@@ -11,4 +11,4 @@
 | [Анализ результатов А/В теста крупного интернет-магазина](https://github.com/MariiaOrlova2023/DA/tree/main/AB_test) |Выбор гипотезы, анализ результатов A/B теста, заключение - завершен| Python, Pandas, SciPy, Matplotlib, NumPy|
 | [Изучение воронки продаж и анализ А/A/B теста](https://github.com/MariiaOrlova2023/DA/tree/main/Conversion) |Поэтапный расчет конверсии приложения по продаже продуктов питания. Применение поправки Бонферрони при расчете статистической значимости результатов А/A/B теста | Python, Pandas, SciPy, Matplotlib, NumPy |
 | [Исследование рынка общественного питания Москвы](https://github.com/MariiaOrlova2023/DA/tree/main/coffe_shop) |Исследование с целью открытия кофейни: выбор района, формата заведения | Python, Pandas, Matplotlib, Seadorn, Plotly, Folium |
- 
+| [Рекомендации по рекламной рассылке интернет-магазина товаров для дома](https://github.com/MariiaOrlova2023/DA/tree/main/advertising_mailing) | RFM-анализ для формирования категорий покупателей, анализ категорий товаров, проверка гипотез  | Python, Pandas, Matplotlib, Seaborn, Datetime, Scipy, Numpy | 
